@@ -1,5 +1,6 @@
 #Código criado em sala de aula na aprendizagem industrial do Senai, em portugol:
 
+~~~~
 programa{
 	inteiro opcao
 	real total
@@ -46,3 +47,4 @@ programa{
 			escreva ("O total da sua conta é " + total)
 	}
 }
+~~~~
