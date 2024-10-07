@@ -1,4 +1,4 @@
-#Código criado em sala de aula na aprendizagem industrial do Senai, em portugol:
+#Código criado em sala de aula na aprendizagem industrial do Senai, em portugol. Com o propósito de mostrar um menu ao usuário e permitir que o próprio escolha vários desejados e mostre o valor total da compra deste usuário.
 
 ~~~~
 programa{
