@@ -1,12 +1,9 @@
 #Código criado em sala de aula na aprendizagem industrial do Senai, em portugol:
 
-programa
-{
+programa{
 	inteiro opcao
 	real total
-
-	
-	
+ 
 	funcao menu(){
 		escreva("Menu do restaurante: \n")
 		escreva("Digite 1 para refrigerantes (5 reais)\n")
