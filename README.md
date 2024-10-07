@@ -1,4 +1,4 @@
-#Código criado em sala de aula na aprendizagem industrial do Senai
+#Código criado em sala de aula na aprendizagem industrial do Senai, em portugol:
 
 programa
 {
