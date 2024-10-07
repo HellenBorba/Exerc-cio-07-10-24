@@ -1,3 +1,5 @@
+#Código e Explicação
+
 Código criado em sala de aula na aprendizagem industrial do Senai, em portugol. Com o propósito de mostrar um menu ao usuário e permitir que o próprio escolha vários produtos, mostrando o valor total da compra deste usuário e o que foi adicionado.
 
 ~~~~
